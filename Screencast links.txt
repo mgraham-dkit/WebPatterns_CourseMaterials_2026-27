@@ -1,0 +1,7 @@
+Accessing databases through intellij: https://media.heanet.ie/page/a30493d0572645d89759c2e977a9b3ff
+
+Fundamentals of JDBC: https://media.heanet.ie/page/7f10ac54c4b8470a8e02b69fecb49a80
+
+Common errors in JDBC code: https://media.heanet.ie/page/2afffbf592684616837adff6282d98bb
+
+Parameterised queries & example of an insert action: https://media.heanet.ie/page/17090b793c2942618577f556a297fe39
